@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.2.0](https://www.github.com/brokeyourbike/uid-keys-laravel/compare/v0.1.2...v0.2.0) (2026-01-02)
+
+
+### Features
+
+* php 8.2 ([6fa8d66](https://www.github.com/brokeyourbike/uid-keys-laravel/commit/6fa8d66cd961207274c899b27ffd9503d4130d6f))
+
+
+### Bug Fixes
+
+* update php ([519fce7](https://www.github.com/brokeyourbike/uid-keys-laravel/commit/519fce7c662c16d4f21a030857f04b87d6f5c132))
+
 ### [0.1.2](https://www.github.com/brokeyourbike/uid-keys-laravel/compare/v0.1.1...v0.1.2) (2023-05-20)
 
 
