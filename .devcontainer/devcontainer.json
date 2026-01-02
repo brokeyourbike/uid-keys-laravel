@@ -1,0 +1,9 @@
+// For format details, see https://aka.ms/devcontainer.json. For config options, see the
+// README at: https://github.com/devcontainers/templates/tree/main/src/php
+{
+	"name": "uid-keys-laravel",
+	"image": "mcr.microsoft.com/vscode/devcontainers/php:8.2",
+	"features": {
+		"ghcr.io/devcontainers-extra/features/composer:1": {}
+	}
+}
