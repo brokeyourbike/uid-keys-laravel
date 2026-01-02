@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.1.3](https://www.github.com/brokeyourbike/uid-keys-laravel/compare/v0.1.2...v0.1.3) (2026-01-02)
+
+
+### Bug Fixes
+
+* update php ([519fce7](https://www.github.com/brokeyourbike/uid-keys-laravel/commit/519fce7c662c16d4f21a030857f04b87d6f5c132))
+
 ### [0.1.2](https://www.github.com/brokeyourbike/uid-keys-laravel/compare/v0.1.1...v0.1.2) (2023-05-20)
 
 
