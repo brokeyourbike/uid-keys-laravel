@@ -2,8 +2,7 @@
 
 [![Latest Stable Version](https://img.shields.io/github/v/release/brokeyourbike/uid-keys-laravel)](https://github.com/brokeyourbike/uid-keys-laravel/releases)
 [![Total Downloads](https://poser.pugx.org/brokeyourbike/uid-keys/downloads)](https://packagist.org/packages/brokeyourbike/uid-keys)
-[![Maintainability](https://api.codeclimate.com/v1/badges/a0f0de6de7485a62c2a3/maintainability)](https://codeclimate.com/github/brokeyourbike/uid-keys-laravel/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/a0f0de6de7485a62c2a3/test_coverage)](https://codeclimate.com/github/brokeyourbike/uid-keys-laravel/test_coverage)
+[![codecov](https://codecov.io/gh/brokeyourbike/uid-keys-laravel/graph/badge.svg?token=uoAi4iV0Ab)](https://codecov.io/gh/brokeyourbike/uid-keys-laravel)
 
 A simple drop-in solution for providing UUID and ULID support for the IDs of your Eloquent models. 
 
