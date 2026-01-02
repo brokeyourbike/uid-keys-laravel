@@ -40,10 +40,13 @@ class ExampleModel extends Model
 ```
 
 ## Inspiration
+
 Code mainly stolen from the [goldspecdigital/laravel-eloquent-uuid](https://github.com/goldspecdigital/laravel-eloquent-uuid) package.
 
 ## Authors
+
 - [Ivan Stasiuk](https://github.com/brokeyourbike) | [Twitter](https://twitter.com/brokeyourbike) | [LinkedIn](https://www.linkedin.com/in/brokeyourbike) | [stasi.uk](https://stasi.uk)
 
 ## License
+
 [Mozilla Public License v2.0](https://github.com/brokeyourbike/uid-keys-laravel/blob/main/LICENSE)
